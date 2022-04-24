@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  height: 310px;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 9%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    .card-content{
+    padding-left: 10%;
+    font-size: 14px;
+  
+  }
+}
+link{
+
+
+    text-decoration: none;
+
+}
